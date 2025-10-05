@@ -3,7 +3,7 @@
 # FILENAME: knn.py
 # SPECIFICATION: calculate 1NN error rate for email classification
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 4 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU ARE ALLOWED TO USE ANY PYTHON LIBRARY TO COMPLETE THIS PROGRAM
